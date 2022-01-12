@@ -1,3 +1,5 @@
+# Este proyecto contiene una simple app android para ejemplo de pipelines YAML de https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/android?view=azure-devops 
+
 
 # Contributing
 
